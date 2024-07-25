@@ -1,2 +1,0 @@
-# siteCordel
- cursoemVideo
